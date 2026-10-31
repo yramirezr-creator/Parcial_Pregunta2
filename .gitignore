@@ -1,0 +1,21 @@
+# Datos y salidas pesadas
+data_sen1floods11/
+outputs/
+outputs_full/
+*.pt
+*.pth
+*.part
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter / SO / IDE
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

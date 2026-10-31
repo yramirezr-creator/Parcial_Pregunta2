@@ -1,0 +1,6 @@
+Experimento,Supervisión,Pérdida,Val IoU,Test IoU,Test F1,Test Prec,Test Recall,Bolivia IoU,Minutos
+G|combined,G,combined,0.3761,0.3829,0.4919,0.4669,0.6976,0.3687,5.2168
+G+W|combined,G+W,combined,0.3417,0.3471,0.4364,0.4840,0.6014,0.4656,4.8157
+W→G|combined,W→G,combined,0.3668,0.3604,0.4645,0.4484,0.7103,0.4115,4.8555
+G|bce,G,bce,0.3642,0.3698,0.4638,0.5678,0.5500,0.4327,4.8470
+G|dice,G,dice,0.3852,0.3777,0.4811,0.5261,0.5841,0.3777,4.8216
